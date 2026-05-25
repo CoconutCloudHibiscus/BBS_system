@@ -50,13 +50,6 @@
             <scope>runtime</scope>
         </dependency>
 
-        <!-- PostgreSQL -->
-        <dependency>
-            <groupId>org.postgresql</groupId>
-            <artifactId>postgresql</artifactId>
-            <scope>runtime</scope>
-        </dependency>
-
         <!-- Spring Security Crypto (BCryptPasswordEncoder) -->
         <dependency>
             <groupId>org.springframework.security</groupId>

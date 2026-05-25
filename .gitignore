@@ -33,6 +33,7 @@ Thumbs.db
 .env
 .env.local
 .env.*.local
+backend/src/main/resources/application-dev.yml
 
 # ========================
 # 输出文档
